@@ -1,0 +1,9 @@
+customtkinter
+tkinter
+Pillow
+opencv-python-headless
+numpy
+paddleocr
+scikit-learn
+joblib
+sqlite3
